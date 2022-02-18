@@ -16,7 +16,12 @@
 12. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_l) Union Find
 13. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_m) Dijkstra
 14. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_n)
+15. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_o) [逆元nCr](https://blog.satoooh.com/entry/5195/) 区間を空けて選ぶ
+16. https://atcoder.jp/contests/typical90/tasks/typical90_p
+
 
 ## notes
 
 ![](img/6.jpg)
+![](img/README-8.jpg)
+![](img/README-15.jpg)
