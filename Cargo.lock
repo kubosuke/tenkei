@@ -9,6 +9,12 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d468802bab17cbc0cc575e9b053f41e72aa36bfa6b7f55e3529ffa43161b97fa"
 
 [[package]]
+name = "competitive-programming-rs"
+version = "38.0.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4ec52abd6eec94784f195145d78ce40a4066b643aee205a9d8b9d9f22d507d78"
+
+[[package]]
 name = "lazy_static"
 version = "1.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -45,6 +51,7 @@ dependencies = [
 name = "tenkei"
 version = "0.1.0"
 dependencies = [
+ "competitive-programming-rs",
  "ordered-float",
  "proconio",
 ]
