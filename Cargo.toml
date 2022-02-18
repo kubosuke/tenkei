@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 proconio = "0.4.3"
+ordered-float = "2.10.0"
