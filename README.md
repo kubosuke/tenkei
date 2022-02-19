@@ -17,11 +17,20 @@
 13. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_m) Dijkstra
 14. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_n)
 15. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_o) [逆元nCr](https://blog.satoooh.com/entry/5195/) 区間を空けて選ぶ
-16. https://atcoder.jp/contests/typical90/tasks/typical90_p
-
+16. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_p) 全探索
+17. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_q) FenwickTree, range重なり
+18. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_r) 三角関数
+19. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_s) 区間DP
+20. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_t)
+21. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_u) 強連結成分分解(SCC)
+22. [問題](https://atcoder.jp/contests/typical90/tasks/typical90_v)
 
 ## notes
 
-![](img/6.jpg)
+![](img/README-6.jpg)
 ![](img/README-8.jpg)
 ![](img/README-15.jpg)
+![](img/README-17.jpg)
+![](img/README-18.jpg)
+![](img/README-19.jpg)
+![](img/README-21.jpg)
